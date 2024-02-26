@@ -1,0 +1,13 @@
+button{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin: 10px;
+    font-weight: 600;
+    font-size: large;
+    cursor: pointer;
+}
+p{
+    color: rgb(106, 104, 104);
+    font-size: large;
+}
