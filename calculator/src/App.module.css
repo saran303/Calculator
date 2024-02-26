@@ -11,3 +11,9 @@ p{
     color: rgb(106, 104, 104);
     font-size: large;
 }
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-top: 10px;
+  }
